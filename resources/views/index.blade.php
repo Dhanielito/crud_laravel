@@ -1,3 +1,5 @@
+<!-- Dhaniel Santamaria id 820259 semestre 4 Nrc 66988 framework -->
+
 @extends('layouts.base')
 
 @section('content')
